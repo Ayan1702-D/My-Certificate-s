@@ -50,6 +50,6 @@ Welcome to my credentials repository! This space serves as a verified digital po
 | **Data Analysis with Python**[cite: 3] | IBM SkillsBuild[cite: 3] | July 2025[cite: 3] | [Validate Authenticity](https://courses.skillsbuild.skillsnetwork.site/certificates/33f062c142804deea20c4d09b57fd35e)[cite: 3] | [View PDF](./IBM%20SKILLBASED%20DATA%20ANALYSIS%20WITH%20PYTHON.pdf) |
 | **Big Data 101**[cite: 2] | IBM SkillsBuild[cite: 2] | July 2025[cite: 2] | [Validate Authenticity](https://courses.skillsbuild.skillsnetwork.site/certificates/74001814158c4098b9075ae2da7e2925)[cite: 2] | [View PDF](./IBM%20SKILLBASED%20BIG%20DATA%20101.pdf) |
 | **Green Skills & AI**[cite: 4] | Edunet / AICTE / Shell[cite: 4] | March 2025[cite: 4] | *ID: S4F25_147870*[cite: 4] | [View PDF](./EDUNET%20CERTIFICATE.pdf) |
-| **CODE-A-THON 2026 (Finalist)**[cite: 5] | VIT, Mumbai[cite: 5] | January 2026[cite: 5] | *ALGORHYTHM '26 Finalist*[cite: 5] | [View PDF](./CODE-A-THON%2026.pdf) |
+| **CODE-A-THON 2026 (Finalist)**[cite: 5] | VIT, Mumbai[cite: 5] | January 2026[cite: 5] | *ALGORHYTHM '26 Finalist*[cite: 5] | [View PDF](./CODE-A-THON%202026.pdf) |
 
 ---
